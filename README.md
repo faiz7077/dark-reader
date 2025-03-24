@@ -82,6 +82,3 @@ pnpm dev
 pnpm build
 ```
 
-## License
-
-MIT
