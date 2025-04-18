@@ -1,4 +1,4 @@
-# Dark Mode PDF Reader
+# Dark Mode - PDF Reader
 
 A modern web application for reading PDF files with dark mode support. This application allows you to read PDFs with inverted colors for better readability in low light conditions.
 
