@@ -44,6 +44,7 @@ src/
 │       ├── utils/        # Utility functions
 │       └── types/        # TypeScript types
 └── lib/                  # Shared utilities and helpers
+
 ```
 
 ## Getting Started
